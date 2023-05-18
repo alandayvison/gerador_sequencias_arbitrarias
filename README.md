@@ -1,0 +1,1 @@
+# gerador_sequencias_arbitrarias
